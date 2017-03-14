@@ -1,0 +1,22 @@
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\bin\Debug\ChatClient.exe.config
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\bin\Debug\ChatClient.exe
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\bin\Debug\ChatClient.pdb
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\obj\Debug\ChatClient.exe
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\obj\Debug\ChatClient.pdb
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\obj\Debug\ChatClient.Form1.resources
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\bin\Debug\Chat.Model.dll
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\ChatClient\bin\Debug\Chat.Model.pdb
+C:\Users\Ron_2\Desktop\Chat\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Ron_2\Desktop\Chat\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Ron_2\Desktop\Chat\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\Ron_2\Desktop\Chat\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Ron_2\Desktop\Chat\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Ron_2\Desktop\Chat\ChatClient\bin\Debug\Chat.Model.dll
+C:\Users\Ron_2\Desktop\Chat\ChatClient\bin\Debug\Chat.Model.pdb
+C:\Users\Ron_2\Desktop\Chat\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Ron_2\Desktop\Chat\ChatClient\obj\Debug\ChatClient.Form1.resources
+C:\Users\Ron_2\Desktop\Chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Ron_2\Desktop\Chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache

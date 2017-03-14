@@ -1,0 +1,10 @@
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\Chat.Model\bin\Debug\Chat.Model.dll
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\Chat.Model\bin\Debug\Chat.Model.pdb
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\Chat.Model\obj\Debug\Chat.Model.csprojResolveAssemblyReference.cache
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\Chat.Model\obj\Debug\Chat.Model.dll
+c:\Users\Francis\documents\visual studio 2015\Projects\Chat'\Chat.Model\obj\Debug\Chat.Model.pdb
+C:\Users\Ron_2\Desktop\Chat\Chat.Model\bin\Debug\Chat.Model.dll
+C:\Users\Ron_2\Desktop\Chat\Chat.Model\bin\Debug\Chat.Model.pdb
+C:\Users\Ron_2\Desktop\Chat\Chat.Model\obj\Debug\Chat.Model.csprojResolveAssemblyReference.cache
+C:\Users\Ron_2\Desktop\Chat\Chat.Model\obj\Debug\Chat.Model.dll
+C:\Users\Ron_2\Desktop\Chat\Chat.Model\obj\Debug\Chat.Model.pdb

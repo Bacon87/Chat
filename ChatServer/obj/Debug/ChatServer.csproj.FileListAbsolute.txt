@@ -1,0 +1,16 @@
+c:\users\francis\documents\visual studio 2015\Projects\Chat'\ChatServer\bin\Debug\ChatServer.exe.config
+c:\users\francis\documents\visual studio 2015\Projects\Chat'\ChatServer\bin\Debug\ChatServer.exe
+c:\users\francis\documents\visual studio 2015\Projects\Chat'\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\francis\documents\visual studio 2015\Projects\Chat'\ChatServer\obj\Debug\ChatServer.exe
+c:\users\francis\documents\visual studio 2015\Projects\Chat'\ChatServer\obj\Debug\ChatServer.pdb
+c:\users\francis\documents\visual studio 2015\Projects\Chat'\ChatServer\bin\Debug\Chat.Model.dll
+c:\users\francis\documents\visual studio 2015\Projects\Chat'\ChatServer\bin\Debug\Chat.Model.pdb
+c:\users\francis\documents\visual studio 2015\Projects\Chat'\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Ron_2\Desktop\Chat\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Ron_2\Desktop\Chat\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Ron_2\Desktop\Chat\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Ron_2\Desktop\Chat\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Ron_2\Desktop\Chat\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Ron_2\Desktop\Chat\ChatServer\bin\Debug\Chat.Model.dll
+C:\Users\Ron_2\Desktop\Chat\ChatServer\bin\Debug\Chat.Model.pdb
+C:\Users\Ron_2\Desktop\Chat\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
